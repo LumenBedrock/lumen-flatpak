@@ -1,0 +1,9 @@
+[Flatpak Ref]
+Title=Lumen Launcher
+Name=io.github.LumenBedrock.LumenLauncher
+Branch=master
+Url=https://lumenbedrock.github.io/lumen-flatpak/repo
+SuggestRemoteName=lumen-launcher
+GPGKey=mDMEasoO3xYJKwYBBAHaRw8BAQdAjYmWjZ0BERnmMq6Tqfib1+2Ic4LIntklM04aGvV31Fa0N0x1bWVuIExhdW5jaGVyIEZsYXRwYWsgPGx1bWVuQHVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbT6IkAQTFgoAOBYhBL/nmkO2LvLDroyvddTiyPkFveIwBQJqyg7fAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJENTiyPkFveIwtDIA/0f4EKUIEDGuBYlZFcSZEX8EHkPen9hy44YG7NqG4k5yAP4rGAKmxgAKUOx2dvyWDj3MTwVYbeH0Z1gb/aXiw0KBAQ==
+IsRuntime=false
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
